@@ -1,4 +1,4 @@
-Media!Solutionz – Company Website
+Media1Solutionz – Company Website
 Description:
 Media1Solutionz is a fully custom-built company website developed according to specific client requirements. The entire website layout, structure, styling, content placement, and icons were designed and implemented from scratch without using any pre-built templates. All visual assets were manually selected and integrated to match the client’s branding and expectations.
 
@@ -30,7 +30,7 @@ Screenshots
 ![Mobile Device](screenshots/mobile.png)
 
 Live Demo
-**Live Website:**[ [livelink](https://www.media1solutionz.com/)]
+**Live Website:**[ [media1solutionz.com](https://www.media1solutionz.com/)]
 
 Project Highlights
 - Built completely from scratch based on client specifications
